@@ -1,0 +1,20 @@
+body{
+    background-image: url('../image/image.MQ6.12.20180830134949.jpeg');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+
+p{
+    font-size: large;
+    text-indent: 2em;
+    /*文字間距*/
+    letter-spacing: 3px;
+    /*行距*/
+    line-height:150%;
+}
+
+a:link{color: cyan; text-decoration: none;}
+a:visited{color: greenyellow; text-decoration: none;}
+a:hover{color:red;text-decoration: underline;}
+a:active{color:tomato; text-decoration: line-through;}
+

@@ -1,0 +1,17 @@
+body{
+    background-image: url('../image/47381057e2c129c460a095f65c362a74.jpeg');
+    background-color: OldLace  ;
+
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+#img{
+    opacity: 0.5; 
+    filter: alpha(opacity=50); 
+}
+#img:hover{
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}

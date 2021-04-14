@@ -1,0 +1,10 @@
+body{
+    
+    background-image: url('../image/12.jpg');
+    /*background-repeat:no-repeat;*/
+    /*background-attachment: fixed;*/
+    background-repeat: repeat;
+    background-color: rgba(0, 0, 0, 0.6);
+    background-blend-mode: multiply;
+
+}
